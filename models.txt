@@ -1,0 +1,12 @@
+USER
+
+	first name
+	surname
+	email
+	password
+
+CATEGORY
+	name
+	book 
+	nursery rhyme
+
