@@ -1,12 +1,16 @@
 USER
 
-	first name
-	surname
-	email
-	password
+	User ID
+	Name
+	Email Address
+	Password
+	Receive email recommendations
+	When joined
 
-CATEGORY
-	name
-	book 
-	nursery rhyme
+
+Read a Book
+
+	User ID
+	Books Read
+	When book read
 
